@@ -6,4 +6,5 @@ if input == random.to_s
 puts "you guessed the correct number!"
 elsif input.downcase = "exit"
 puts "Goodbye!"
-
+else
+puts 
