@@ -3,4 +3,5 @@ random=rand(6)+1
 puts "guess a number between 1 and 6:"
 input = gets.chomp
 if input == random.to_s
-puts "you guessed the correct number"
+puts "you guessed the correct number!"
+
