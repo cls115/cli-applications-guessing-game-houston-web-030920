@@ -7,6 +7,6 @@ puts "you guessed the correct number!"
 elsif input.downcase == "exit"
 puts "Goodbye!"
 else
-puts "Sorry, the computer guessed #{random}
+puts "Sorry, the computer guessed #{random}"
  end
 end
