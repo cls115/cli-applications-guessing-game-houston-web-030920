@@ -1,6 +1,1 @@
 
-
-require_relative "../guessing_game_cli"
-
-def run_guessing_game
-allow.self.to recieve(:rand). return(1..6)
